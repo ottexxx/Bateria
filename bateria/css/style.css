@@ -6,9 +6,9 @@
 }
 
 html{
-    title-color: #fff;
-    base-color: rgb(5, 4, 4);
-    base-color-secund: #00ff7f;
+    --title-color: #fff;
+    --base-color: rgb(5, 4, 4);
+    --base-color-secund: #00ff7f;
 }
 
 body{
